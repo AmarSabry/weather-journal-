@@ -1,6 +1,6 @@
 /* Global Variables */
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather?zip=';
-const apiKey = '&appid=8ae885600acb895e515f984a67710499';
+const apiKey = '...';
 const unit = "&units=metric";
 //click event
 document.getElementById('generate').addEventListener('click', () => {
